@@ -1,12 +1,12 @@
 # 🛒 Amazon User Segmentation using Machine Learning
 
-## 📌 Overview
+##  Overview
 
 This project segments Amazon customers into different groups based on their shopping behavior using the **K-Means Clustering** algorithm. Customer segmentation helps businesses understand user behavior and enables personalized marketing, better recommendations, and improved customer satisfaction.
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Amazon serves millions of customers with different shopping habits. Understanding customer behavior manually is difficult.
 
@@ -21,7 +21,7 @@ This project uses Machine Learning to identify customer segments based on factor
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - Dataset: Amazon Consumer Behaviour Survey
 - Number of Records: **600+**
@@ -29,7 +29,7 @@ This project uses Machine Learning to identify customer segments based on factor
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -41,7 +41,7 @@ This project uses Machine Learning to identify customer segments based on factor
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 AmazonSeg/
@@ -68,7 +68,7 @@ AmazonSeg/
 
 ---
 
-## ⚙️ Workflow
+##  Workflow
 
 1. Data Loading
 2. Exploratory Data Analysis (EDA)
@@ -81,7 +81,7 @@ AmazonSeg/
 
 ---
 
-## 📈 Exploratory Data Analysis
+##  Exploratory Data Analysis
 
 ### Age Distribution
 
@@ -113,7 +113,7 @@ AmazonSeg/
 
 ---
 
-## 📉 Elbow Method
+##  Elbow Method
 
 The Elbow Method was used to determine the optimal number of clusters for K-Means.
 
@@ -121,7 +121,7 @@ The Elbow Method was used to determine the optimal number of clusters for K-Mean
 
 ---
 
-## 🤖 Machine Learning Model
+## Machine Learning Model
 
 Algorithm Used:
 
@@ -131,7 +131,7 @@ The model groups customers with similar shopping behavior into different custome
 
 ---
 
-## 📌 Results
+##  Results
 
 - Successfully segmented **600+ Amazon customers**
 - Identified **4 customer clusters**
@@ -140,7 +140,7 @@ The model groups customers with similar shopping behavior into different custome
 
 ---
 
-## ▶️ How to Run
+## ▶How to Run
 
 Clone the repository
 
@@ -167,7 +167,7 @@ python src/cluster_analysis.py
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Compare K-Means with DBSCAN
 - Build an interactive dashboard
@@ -176,7 +176,7 @@ python src/cluster_analysis.py
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Pragnya Nemani**
 
